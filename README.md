@@ -1,28 +1,23 @@
-# Foldspace support
+# Foldspace Support
 
-English support website for Foldspace, hosted with GitHub Pages.
+Foldspace is a cozy game about furnishing and decorating miniature rooms in 3D.
 
-- Support: **swixer.support@icloud.com**
-- Bug reports and ideas: <https://github.com/SwixerOfficial/foldspace-support/issues>
-- Expected public URL after Pages is enabled: <https://swixerofficial.github.io/foldspace-support/>
+Visit the [Foldspace support website](https://swixerofficial.github.io/foldspace-support/) for quick answers and help getting started.
 
-## Publish
+## Get in touch
 
-Commit and push the page files to `main`, then open the repository’s **Settings → Pages**:
+- **Questions or private support:** [swixer.support@icloud.com](mailto:swixer.support@icloud.com)
+- **Bug reports and feature ideas:** [GitHub Issues](https://github.com/SwixerOfficial/foldspace-support/issues)
 
-1. Source: **Deploy from a branch**.
-2. Branch: **main**, folder: **/ (root)**.
-3. Save and wait for GitHub’s Pages deployment to succeed.
-4. Open the deployed page and check both contact links before using its URL in App Store Connect.
+GitHub Issues requires an account and reports are public. Use email for private questions.
 
-Use the deployed page URL as **Support URL**. Publishing is separate from writing the local files; the expected URL above is not a deployment confirmation.
+## Reporting a problem
 
-## Local preview
+Please include:
 
-```sh
-python3 -m http.server 8765 --bind 127.0.0.1
-```
+- Your device model, iOS version, and Foldspace version.
+- What you were doing, what you expected, and what happened instead.
+- Steps to reproduce the problem and a screenshot, if possible.
+- For iPhone Duo, the display or fold mode you were using.
 
-Open <http://127.0.0.1:8765>. Stop with Ctrl-C.
-
-The page uses plain HTML/CSS, a local copy of the Foldspace icon preview, native expandable answers, and system fonts. There is no build step, JavaScript, analytics, contact form, or external font dependency. The app itself and its source are maintained separately.
+Feature ideas are welcome too — tell us what you would like to create or do in Foldspace.
