@@ -6,10 +6,7 @@ Visit the [Foldspace support website](https://swixerofficial.github.io/foldspace
 
 ## Get in touch
 
-- **Questions or private support:** [swixer.support@icloud.com](mailto:swixer.support@icloud.com)
-- **Bug reports and feature ideas:** [GitHub Issues](https://github.com/SwixerOfficial/foldspace-support/issues)
-
-GitHub Issues requires an account and reports are public. Use email for private questions.
+For questions, bug reports, and feature ideas, email [swixer.support@icloud.com](mailto:swixer.support@icloud.com).
 
 ## Reporting a problem
 
