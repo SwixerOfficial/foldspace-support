@@ -69,3 +69,10 @@ details[open] summary::after { content: "−"; }
   .actions { flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+.policy { max-width: 760px; padding-block: 36px 24px; overflow-wrap: anywhere; }
+.policy h1 { font-size: clamp(36px, 6vw, 56px); }
+.policy-date { color: var(--muted); font-size: 14px; }
+.policy section { margin-top: 32px; }
+.policy h2 { font-size: 24px; }
+.policy p { color: var(--muted); }

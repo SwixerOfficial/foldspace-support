@@ -18,3 +18,9 @@ Please include:
 - For iPhone Duo, the display or fold mode you were using.
 
 Feature ideas are welcome too — tell us what you would like to create or do in Foldspace.
+
+## Privacy policy
+
+The policy is in `privacy.html`. Publish it with the site before submitting the app.
+
+App Store Connect Privacy Policy URL: https://swixerofficial.github.io/foldspace-support/privacy.html
